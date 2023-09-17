@@ -42,14 +42,7 @@ The game progresses through levels of increasing difficulty, with more and faste
 - **Java OOP**: Utilized Java's object-oriented programming features for modular design, code reusability, and ease of maintenance.
 - **JavaFX**: Used for creating the graphical user interface, making the game visually appealing and interactive.
   
-## How to Run the Game
-1. Compile all the `.java` files
-2. Run `MainClass.java` to start the game
 
-## Group Members and Contributions
-- [Member 1 Name]: [Student Number] - Worked on Game Logic
-- [Member 2 Name]: [Student Number] - Worked on GUI using JavaFX
-- [Member 3 Name]: [Student Number] - Worked on Physics and Collision Detection
 - [Member 4 Name]: [Student Number] - Worked on Implementing Alien Ships and Additional Features
 
 For further details, please refer to the [Game Instruction Video](https://brightspace.ucd.ie/d2l/le/content/203861/viewContent/2419611/View).
